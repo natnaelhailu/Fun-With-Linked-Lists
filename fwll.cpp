@@ -16,7 +16,7 @@ int main()
 {
     int n;    		  // total number of nodes
     int k;    		  // number of nodes to reverse
-    LL<int> list;     // an empty linked list
+    LL<int> list;         // an empty linked list
 
     while(true) {
         // prompt user for input & validate that it is of type int
